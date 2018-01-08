@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Draw.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="15736" topLine="775" />
+	</File>
+	<File name="Draw.h" open="0" top="0" tabpos="3">
+		<Cursor position="144" topLine="0" />
+	</File>
+	<File name="GAME.h" open="0" top="0" tabpos="4">
+		<Cursor position="70" topLine="19" />
+	</File>
+	<File name="Keys.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="16" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="77578" topLine="1144" />
+	</File>
+</CodeBlocks_layout_file>

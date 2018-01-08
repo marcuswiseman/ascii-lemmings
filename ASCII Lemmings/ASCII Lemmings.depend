@@ -1,0 +1,315 @@
+# depslib dependency file v1.0
+1265497547 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\main.cpp
+	"keys.h"
+	"Draw.h"
+	<iostream>
+	<curses.h>
+	<windows.h>
+	<cstdio>
+	<cstring>
+	<mmsystem.h>
+	<fstream>
+
+1261264812 e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\game.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1216124006 e:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1260119480 e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\keys.h
+
+1261243379 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\setcolors.cpp
+
+1263344143 e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\draw.h
+
+1265547981 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\draw.cpp
+	<curses.h>
+	<iostream>
+	<fstream>
+	"Keys.h"
+	<windows.h>
+
+1262800023 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\al_input.cpp
+
+1262805449 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\lemming.cpp
+	<iostream>
+	<curses.h>
+	"Keys.h"
+	<windows.h>
+
+1262804938 e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\lemming.h
+	"lemclass.h"
+
+1262804619 e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\lemclass.h
+
+1107038124 c:\dev-cpp\include\stdarg.h
+
+1107038124 c:\dev-cpp\include\stddef.h
+
+1107038124 c:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107038124 c:\dev-cpp\include\_mingw.h
+
+1107038124 c:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038124 c:\dev-cpp\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107038124 c:\dev-cpp\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038124 c:\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1107038120 c:\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1107038120 c:\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1107038120 c:\dev-cpp\include\winuser.h
+
+1107038120 c:\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1107038120 c:\dev-cpp\include\winerror.h
+
+1107038124 c:\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038120 c:\dev-cpp\include\basetsd.h
+
+1107038120 c:\dev-cpp\include\pshpack4.h
+
+1107038120 c:\dev-cpp\include\poppack.h
+
+1107038120 c:\dev-cpp\include\winver.h
+
+1107038120 c:\dev-cpp\include\dde.h
+
+1107038120 c:\dev-cpp\include\dlgs.h
+
+1107038120 c:\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1107038120 c:\dev-cpp\include\prsht.h
+
+1107038120 c:\dev-cpp\include\windef.h
+	<winnt.h>
+
+1107038120 c:\dev-cpp\include\wincon.h
+
+1107038120 c:\dev-cpp\include\winbase.h
+
+1107038120 c:\dev-cpp\include\wingdi.h
+
+1107038120 c:\dev-cpp\include\winnls.h
+
+1107038120 c:\dev-cpp\include\winnetwk.h
+
+1107038120 c:\dev-cpp\include\winreg.h
+
+1107038120 c:\dev-cpp\include\winsvc.h
+
+1107038120 c:\dev-cpp\include\cderr.h
+
+1107038120 c:\dev-cpp\include\ddeml.h
+
+1107038120 c:\dev-cpp\include\imm.h
+
+1107038120 c:\dev-cpp\include\lzexpand.h
+
+1107038120 c:\dev-cpp\include\mmsystem.h
+
+1107038120 c:\dev-cpp\include\nb30.h
+
+1107038120 c:\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1107038120 c:\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1107038120 c:\dev-cpp\include\basetyps.h
+
+1107038120 c:\dev-cpp\include\rpcdcep.h
+
+1107038120 c:\dev-cpp\include\rpcnsi.h
+
+1107038120 c:\dev-cpp\include\rpcnterr.h
+
+1107038124 c:\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1107038120 c:\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1107038120 c:\dev-cpp\include\pshpack2.h
+
+1107038120 c:\dev-cpp\include\winperf.h
+
+1107038120 c:\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1107038120 c:\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1107038120 c:\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1107038120 c:\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1107038120 c:\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\rpcnsip.h
+
+1107038120 c:\dev-cpp\include\winspool.h
+
+1107038120 c:\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1107038120 c:\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1107038120 c:\dev-cpp\include\mswsock.h
+
+1107038120 c:\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1107038120 c:\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1107038124 c:\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038120 c:\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\cguid.h
+
+1107038120 c:\dev-cpp\include\olectlid.h
+
+1107038120 c:\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1107038120 c:\dev-cpp\include\oaidl.h
+
+1107038120 c:\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1262877946 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\sound.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+
+1266601102 source:d:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\main.cpp
+	"keys.h"
+	"Draw.h"
+	<iostream>
+	<curses.h>
+	<windows.h>
+	<cstdio>
+	<cstring>
+	<mmsystem.h>
+	<fstream>
+
+1260119480 d:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\keys.h
+
+1263344143 d:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\draw.h
+
+1216124006 d:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1266600787 source:d:\documents and settings\mk\my documents\my dropbox\asciilemmings\ascii lemmings one switch 2\ascii lemmings\draw.cpp
+	<curses.h>
+	<iostream>
+	<fstream>
+	"Keys.h"
+	<windows.h>
+

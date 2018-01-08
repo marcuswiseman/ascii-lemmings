@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="clicktest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\Release\clicktest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:\CodeBlocks\SDL-1.2.13\include" />
+			<Add directory="c:\CodeBlocks\pdcurs33" />
+			<Add directory="C:\CodeBlocks\pdcurs33\win32" />
+		</Compiler>
+		<ResourceCompiler>
+			<Add directory="C:\CodeBlocks\pdcurs33\win32" />
+			<Add directory="C:\CodeBlocks\pdcurs33" />
+		</ResourceCompiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDLmain -lSDL" />
+			<Add library="C:\CodeBlocks\pdcurs33\sdl1\libpdc_sdl.a" />
+			<Add library="C:\CodeBlocks\SDL-1.2.13\lib\libSDL.dll.a" />
+			<Add directory="C:\CodeBlocks\SDL-1.2.13\lib" />
+			<Add directory="C:\CodeBlocks\pdcurs33\win32" />
+			<Add directory="C:\CodeBlocks\pdcurs33" />
+		</Linker>
+		<Unit filename="SDL.dll" />
+		<Unit filename="al_input.cpp" />
+		<Unit filename="al_input.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
